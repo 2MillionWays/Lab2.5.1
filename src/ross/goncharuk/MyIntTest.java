@@ -20,8 +20,4 @@ public class MyIntTest {
     static {
         System.out.println("static initialization block 2");
     }
-
-    public static void main(String[] args) {
-        MyIntTest Test = new MyIntTest(1);
-    }
 }
